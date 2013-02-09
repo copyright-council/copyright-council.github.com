@@ -5,15 +5,32 @@ tagline: Exploring the future of Copyright and Enforcement
 ---
 {% include JB/setup %}
 
+<div>
+<div class="label label-success" style="text-align:center;">
+  <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
+  <p>Beer Time</p>
+</div>
 
-<div class="label label-success" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
-<div class="label label-info" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
-<div class="label label-danger" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
-<div class="label label-inverse" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
-<div class="label label-inverted" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+<div class="label label-success" style="text-align:center;">
+  <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
+  <p>Beer Time</p>
+</div>
 
+<div class="label label-success" style="text-align:center;">
+  <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
+  <p>Beer Time</p>
+</div>
 
+<div class="label label-success" style="text-align:center;">
+  <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
+  <p>Beer Time</p>
+</div>
 
+<div class="label label-success" style="text-align:center;">
+  <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
+  <p>Beer Time</p>
+</div>
+</div>
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
 ## Update Author Attributes

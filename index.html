@@ -5,7 +5,6 @@ tagline: Exploring the future of Copyright and Enforcement
 ---
 {% include JB/setup %}
 
-<div>
 <div class="label label-success" style="text-align:center;">
   <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
   <p>Beer Time</p>
@@ -30,13 +29,13 @@ tagline: Exploring the future of Copyright and Enforcement
   <p><i class="icon icon-beer" style="font-size:92px;"></i></p>
   <p>Beer Time</p>
 </div>
-</div>
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+<p>Text and stuff will go here</p>
 
-In `_config.yml` remember to specify your own data:
-    
+<h2>Update Author Attributes</h2>
+
+<p>In `_config.yml` remember to specify your own data:</p>
+<code>
     title : My Blog =)
     
     author :
@@ -44,18 +43,18 @@ In `_config.yml` remember to specify your own data:
       email : blah@email.test
       github : username
       twitter : username
-
-The theme should reference these variables whenever needed.
+</code>
+<p>The theme should reference these variables whenever needed.</p>
     
-## Sample Posts
+<h2> Sample Posts</h2>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
+<p>This blog contains sample posts which help stage pages and blog data.
+When you don't need the samples anymore just delete the `_posts/core-samples` folder.</p>
+<blockquote>
     $ rm -rf _posts/core-samples
+  </blockquote>
 
-Here's a sample "posts list".
-
+<p>Here's a sample "posts list".</p>
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>

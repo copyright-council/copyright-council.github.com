@@ -5,12 +5,14 @@ tagline: Exploring the future of Copyright and Enforcement
 ---
 {% include JB/setup %}
 
-<div class="alert alert-block">
-          <h4 class="alert-heading">Alert block</h4>
-          <p>Best check yo self, you're not looking too good. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
-        </div>
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<div class="label label-success" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+<div class="label label-info" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+<div class="label label-danger" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+<div class="label label-inverse" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+<div class="label label-inverted" style="text-align:center;"><p><i class="icon icon-beer" style="font-size:92px;"></i></p><p>Beet Time</p></div>
+
+
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
